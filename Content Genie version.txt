@@ -1,0 +1,2 @@
+V1 - adapté au blogging normal au lieu des récipes
+V2 - Add COHERE
